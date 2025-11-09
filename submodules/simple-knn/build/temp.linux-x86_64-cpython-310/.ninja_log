@@ -1,0 +1,4 @@
+# ninja log v5
+3	12679	1727118977000000000	/scratch/bcmu/fangli3/4DGaussians/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/simple_knn.o	78776412a7ad9943
+2	128574	1727119092000000000	/scratch/bcmu/fangli3/4DGaussians/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/ext.o	ded97b461cfac7cb
+5	246212	1727119210000000000	/scratch/bcmu/fangli3/4DGaussians/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/spatial.o	ffb8c266c6371a64
